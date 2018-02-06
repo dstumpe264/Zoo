@@ -1,3 +1,3 @@
-#### David Stumpe
+# David Stumpe
 ## Zoo Project
-# Demonstrates Inheritance
+### Demonstrates Inheritance
